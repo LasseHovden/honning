@@ -1,1 +1,2 @@
 this is Lasse i want to get to use git like a pro
+ive added this update to test this function 
