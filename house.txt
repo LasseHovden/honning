@@ -3,10 +3,10 @@
 =======
         ___
     ____| |_
-   /        \
-  /          \
- /            \ 
-/              \
+   /UUUUUUUU\
+  /UUUUUUUUUU\
+ /UUUUUUUUUUUU\ 
+/UUUUUUUUUUUUUU\
 |--------------|   <-->  
 |              |  <---->  
 | [][]    [][] |  <---->   
